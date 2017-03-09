@@ -667,7 +667,7 @@
 			margin-left: auto;
 			margin-right: auto;
 			width: 50%;
-			background-color: rgba(32, 44, 76, 1);
+			background-color: rgba(100, 44, 76, 1);/*100 needs to be changed back to 32; only changed to debug*/
 		}
 
 			.image.small img {
@@ -1332,7 +1332,7 @@
 					}
 
 					#header .contact {
-						background-color: rgba(234, 182, 47, 0.7);
+						background-color: rgba(248, 217, 89, 0.7);
 					}
 
 					#header nav ul li a:hover {
